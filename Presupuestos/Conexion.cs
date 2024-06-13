@@ -10,7 +10,7 @@ namespace conexion
         }
         public MySqlConnection crearConexion()
         {
-            string connectionString = "server=localhost;user=root;password=lalelilolu;database=integracion";
+             string connectionString = "server=viaduct.proxy.rlwy.net;port=19015;user=root;password=sewVLiNNaggTBwFleZittDMmykguuvqX;database=integracion";
             MySqlConnection conexion = new MySqlConnection(connectionString);
             try
             {
