@@ -2667,11 +2667,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\14-dq2521\\Documents\\presupuestos\\Presupuestos.csproj",
+      "projectUniqueName": "C:\\Users\\14-dq2521\\Documents\\NuevoProyecto\\Presupuestos\\Presupuestos.csproj",
       "projectName": "Presupuestos",
-      "projectPath": "C:\\Users\\14-dq2521\\Documents\\presupuestos\\Presupuestos.csproj",
+      "projectPath": "C:\\Users\\14-dq2521\\Documents\\NuevoProyecto\\Presupuestos\\Presupuestos.csproj",
       "packagesPath": "C:\\Users\\14-dq2521\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\14-dq2521\\Documents\\presupuestos\\obj\\",
+      "outputPath": "C:\\Users\\14-dq2521\\Documents\\NuevoProyecto\\Presupuestos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\14-dq2521\\AppData\\Roaming\\NuGet\\NuGet.Config"
